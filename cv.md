@@ -27,3 +27,19 @@ Junior `Frontend developer`
 - ReactJS
 - GatsbyJS
 - jQuery
+
+##Code examples:
+
+```javascript
+function multiply(a, b){
+    return a \* b
+}
+```
+
+<br>
+[`Portfolio` => hit the link](https://maxkram.netlify.com)
+##Education:
+John Abbott College, Web development, 2021
+
+##Human language:
+English fluent
