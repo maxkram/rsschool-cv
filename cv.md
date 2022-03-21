@@ -8,3 +8,22 @@
 _<p>Aspiring web developer with various experience in web development.</p><p>Broad knowledge of modern technologies.</p><p>Expertise in JavaScript. Eager to obtain new skills.</p>_
 
 ##Work experience
+
+**_Acme Inc._**
+-> Aug '20 to Present
+Junior `Frontend developer`
+
+- Landing page
+- Email template
+  [acme.inc](https://acme.inc)
+
+##Programming languages:
+
+- JavaScript (ES6)
+- HTML5 + CSS3
+
+##Frameworks and libraries:
+
+- ReactJS
+- GatsbyJS
+- jQuery
