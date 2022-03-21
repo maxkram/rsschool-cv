@@ -37,9 +37,9 @@ function multiply(a, b){
 ```
 
 <br>
-[`Portfolio` => hit the link](https://maxkram.netlify.com)
-##Education:
-John Abbott College, Web development, 2021
+[`Portfolio` => hit the link](https://maxkram.netlify.com)<br>
+##Education:<br>
+John Abbott College, Web development, 2021<br>
 
-##Human language:
+##Human language:<br>
 English fluent
